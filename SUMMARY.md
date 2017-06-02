@@ -1,7 +1,7 @@
 # Summary
 
 * [Honeycomb](README.md)
-* [1.Api](chapter1.md)
-* [2.Web](2web.md)
-* 3.App
+* [1.Api](api/README.md)
+* [2.Web](web/README.md)
+* [3.App](app/README.md)
 
