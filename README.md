@@ -1,6 +1,6 @@
 # Honeycomb
 
-![](https://img.shields.io/github/license/mashape/apistatus.svg)![](https://img.shields.io/badge/version-v0.0.1-brightgreen.svg?style=flat)
+![](https://img.shields.io/github/license/mashape/apistatus.svg) ![](https://img.shields.io/badge/version-v0.0.1-brightgreen.svg?style=flat)
 
 后端API架构：[**koa**](https://github.com/koajs/koa) + [**graphql**](https://github.com/facebook/graphql) + [**mongo**](https://github.com/mongodb/mongo) + [**mongoose**](https://github.com/Automattic/mongoose) + [**kong**](https://github.com/Mashape/kong)
 
